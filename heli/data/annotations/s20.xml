@@ -1,0 +1,26 @@
+<annotation>
+	<folder>프레젠테이션1</folder>
+	<filename>슬라이드20.JPG</filename>
+	<path>C:\Users\cheon\OneDrive - konkuk.ac.kr\바탕 화면\프레젠테이션1\슬라이드20.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heliport</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>2</ymin>
+			<xmax>1008</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
