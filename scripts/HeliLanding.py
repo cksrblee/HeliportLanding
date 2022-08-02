@@ -40,7 +40,7 @@ def findingCircle(cap):
             #for i in range(circles.shape[1]): # 원의 개수 만큼 반복문
             cx, cy, radius = circles[0][0] # 중심좌표, 반지름 정보 얻기
                 #cv2.circle(dt, (cx, cy), int(radius), (0, 0, 255), 2, cv2.LINE_AA) # 얻은 정보로 원 그리기
-                #print(cx, cy) #원 중심 좌표
+            print(cx, cy) #원 중심 좌표
             return cx, cy
         else :
             return -1, -1
@@ -81,6 +81,9 @@ def main():
     # Amount to move in the x-direction (local frame) in the snake like pattern.
     drange = 50.0
 
+
+    #TO-DO
+    #WayPoint 집어넣어야함
     for i in range(rows):
         # Creating the snake like pattern and pushing it to the waypoints list.
         row = i * 2
