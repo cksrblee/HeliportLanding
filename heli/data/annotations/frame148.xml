@@ -1,0 +1,26 @@
+<annotation>
+	<folder>heliport</folder>
+	<filename>frame148.jpg</filename>
+	<path>C:\Users\cheon\GIT\HeliportLanding\heli\data\heliport\frame148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heliport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>62</ymin>
+			<xmax>919</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>
